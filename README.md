@@ -11,9 +11,9 @@ Demonstrate how to make the Jade Robot Turn on one of its tracks (Left Motor Ful
 ### Project Information
 ```
 Type              : C
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
 
 
